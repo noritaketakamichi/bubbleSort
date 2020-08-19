@@ -1,0 +1,10 @@
+.graphbar {
+  width: 48px;
+  margin-right: 2px;
+  background-color: turquoise;
+  display: inline-block;
+}
+
+main {
+  text-align: center;
+}
